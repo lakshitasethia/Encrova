@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-TARGETDURATION:4
+#EXT-X-MAP:URI="https://chunk-oci-us-ashburn-1-vop1.cfcdn.mux.com/v1/chunk/C8zvbmnIvIkNPwmWwREGo802rMvzo02Q8wQI01yFP01XqDR01tx8SBdi1R82onbFWqxdMYI9I7GsrfjWuyoI02NmlTrQ/18446744073709551615.m4s?skid=default&signature=NmEzNGY3MDBfM2MwODdlZDUxMTY1ZTNhMDE3MzU1ZjFhYmU1MTdkMTgzZTAxY2YwMTZmZTA5NzM1M2FiNzU1MzA1ZGQ5ZGJhYw==&zone=2"
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:4,
+https://chunk-oci-us-ashburn-1-vop1.cfcdn.mux.com/v1/chunk/C8zvbmnIvIkNPwmWwREGo802rMvzo02Q8wQI01yFP01XqDR01tx8SBdi1R82onbFWqxdMYI9I7GsrfjWuyoI02NmlTrQ/0.m4s?skid=default&signature=NmEzNGY3MDBfNjIxZjk2ZmQzMzA4NmYxM2NlN2RmMjg5YWJkOGNiZDY4M2JhZTRjYmQwYWIyZWExNzNmNTdmNTlmNWFmYTE1Mg==&zone=2
+#EXTINF:4,
+https://chunk-oci-us-ashburn-1-vop1.cfcdn.mux.com/v1/chunk/C8zvbmnIvIkNPwmWwREGo802rMvzo02Q8wQI01yFP01XqDR01tx8SBdi1R82onbFWqxdMYI9I7GsrfjWuyoI02NmlTrQ/1.m4s?skid=default&signature=NmEzNGY3MDBfOWJjYzUxODg0MmFiZDQyY2RlNjkxY2U0MGJhYWE2ZTA1YmU0NGRhYzJlNTIwMGE0MmRiYWJlMDQ3ZWNiOGJlYQ==&zone=2
+#EXTINF:4,
+https://chunk-oci-us-ashburn-1-vop1.cfcdn.mux.com/v1/chunk/k3xYEAwKg00RVLuRgJUYLqjOewntR01tS5KY9rPIGuoOjY3ajSXOk6JwTk1vuo6Mc1A4012NIwxswNybh9OERM3Dw/2.m4s?skid=default&signature=NmEzNGY3MDBfMTM0ZDQwOWVmMjY0ZTc0ZTRlMjM1OTdiMWE5YjQ1NmUyMTE0MTcxM2YwOTRhYzVmNDcwZmQ4MWY0N2VlZjU3Yw==&zone=2
+#EXTINF:4,
+https://chunk-oci-us-ashburn-1-vop1.cfcdn.mux.com/v1/chunk/tGSx74s0257J8HBQ01lYkWN2bz5WupwxnZKaeQrsynwjuDczO8O1uGrBBoDENjvMMcnri00xObUMVUlaVUt02fI00eA/3.m4s?skid=default&signature=NmEzNGY3MDBfNzE4MjQyNmJhZDY2ZDMzYzIxYTg1NDY0OGNkODk2NWViNGRjZWFmYjRhMWI1ZWQ5YTllN2NkNGY4MjFiMWFjMA==&zone=2
+#EXTINF:3,
+https://chunk-oci-us-ashburn-1-vop1.cfcdn.mux.com/v1/chunk/02bJbAHaoXFpusvelJrFMK75HFoUXknCEynEFIYTu7LIXcmPN3jC56DxJS2rHkn1WhGn6mRxg7n6g00jdDt7lYqw/4.m4s?skid=default&signature=NmEzNGY3MDBfYmRkMTU2ODM1ZGE1NWE2MDNlMzA3YjZhOGY1MmJlNmNjYjk0N2IyMGRiZmJjZjZiZThmMzdmMDMzODY5OTZlOQ==&zone=2
+#EXT-X-ENDLIST

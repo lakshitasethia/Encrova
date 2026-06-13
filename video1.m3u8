@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:5
+#EXT-X-INDEPENDENT-SEGMENTS
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-hi-0",NAME="Default",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,LANGUAGE="und",URI="https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/GDnP009UiMfhj8u77Xi9IoYHRsga9ybluQDtTGk4xnEt6zixxLWDI01njMjQqeJWjlPu01objeBMuzvIgPp2iLMfKLJ4nZmens2/rendition.m3u8?cdn=fastly&expires=1781956800&skid=default&signature=NmEzNjgwN2RfYjlmNTMwZGE4ZGMxNzg1NzVhODg2MjllNGU2NTg5YjBjNGQ2MzgyYmM2MjQ2OTM1OGY2NzlmYWZkMTM0NjZiNQ=="
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-hi-1",NAME="Default",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,LANGUAGE="und",URI="https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/GDnP009UiMfhj8u77Xi9IoYHRsga9ybluQDtTGk4xnEt6zixxLWDI01njMjQqeJWjlPu01objeBMuzvIgPp2iLMfKLJ4nZmens2/rendition.m3u8?cdn=cloudflare&expires=1781956800&skid=default&signature=NmEzNjgwN2RfNWZiN2JmY2NlZDkzZDYxNmNiYmM4NGQ0NmFkOWU5MjU5OWY5NjI5ZTcxNGMyMmJmYWZhNjEzNjk0ZmRiY2UxYw=="
+#EXT-X-STREAM-INF:BANDWIDTH=2002000,AVERAGE-BANDWIDTH=2002000,CODECS="mp4a.40.2,avc1.64002a",AUDIO="audio-hi-0",RESOLUTION=1920x1080,CLOSED-CAPTIONS=NONE
+https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/9Y02025rO1dM5kU8P02fRsfJOvSizr6rHWCxbL01BKm1mzBCVUfCaUJlCMa3We4rWfDxI6017BpmdYrqDa1Ianf7NTg/rendition.m3u8?cdn=fastly&expires=1781956800&skid=default&signature=NmEzNjgwN2RfNjJkZmJlZmNmMTM3MTQ5YWQwZWI2OWI2MmNlNzE4NjQ5YTI2ZDQ3ZTEyNDhkNGZjOTNkZGI0OGJiYmU4NzljYQ==
+#EXT-X-STREAM-INF:BANDWIDTH=2002000,AVERAGE-BANDWIDTH=2002000,CODECS="mp4a.40.2,avc1.64002a",AUDIO="audio-hi-1",RESOLUTION=1920x1080,CLOSED-CAPTIONS=NONE
+https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/9Y02025rO1dM5kU8P02fRsfJOvSizr6rHWCxbL01BKm1mzBCVUfCaUJlCMa3We4rWfDxI6017BpmdYrqDa1Ianf7NTg/rendition.m3u8?cdn=cloudflare&expires=1781956800&skid=default&signature=NmEzNjgwN2RfYzQ0OGIwYWNiNWEzNjZkNzBjYTkwYWY4ZGI5ZmUyN2VkNTQzMTg5NzQxZmE2YWY3MGRlYmJmNWRiNzUzMDA0NA==
